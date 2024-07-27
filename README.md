@@ -9,7 +9,8 @@ Vision Large Language Models (VLLMs) are transforming the intersection of comput
 ![image_method](https://github.com/user-attachments/assets/828264d0-dacf-4471-9814-496c45328b31)
 
 ## Dataset Description
-The CCFERD dataset consists of a wide range of facial images, each annotated with emotion labels. The images encompass various contexts, including multiple faces per image, different lighting conditions, and varied backgrounds, to simulate real-world conditions. This diversity is intended to enhance the robustness and generalization of emotion recognition models trained on this dataset.
+We collect original images from ABC News website {https://www.abc.net.au/news/}. Following the collection, we undertake meticulous preprocessing, initially removing any identical and blurry images through deduplication. To minimize human effort and cost in data annotation, we employ DeepFace for emotion annotation. Subsequently, two human annotators revise and refine the image labels. Finally, to finalize the labels, we involved a third annotator who has a professional background in psychology to verify correctness of facial expressions with their domain knowledge. This procedure guarantees the quality of the annotated data used to construct benchmarks.
+The emotions are categorized into seven labels: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
 
 ### Example Images
 Some example images from the CCFERD dataset can be found in the datasets folder.
