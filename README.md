@@ -1,4 +1,4 @@
-![图片 1](https://github.com/user-attachments/assets/55ee4801-896a-4ce1-99f4-5a3c90267d4f)![图片 1](https://github.com/user-attachments/assets/d7987379-c5b5-432b-9c6e-45f6534d2b1f)# CCFERD
+# CCFERD
 ## Complex Context Facial Emotion Recognition Dataset
 
 ## Official implementation of our paper:
@@ -12,10 +12,7 @@ Vision Large Language Models (VLLMs) are transforming the intersection of comput
 The CCFERD dataset consists of a wide range of facial images, each annotated with emotion labels. The images encompass various contexts, including multiple faces per image, different lighting conditions, and varied backgrounds, to simulate real-world conditions. This diversity is intended to enhance the robustness and generalization of emotion recognition models trained on this dataset.
 
 ### Example Images
-Below are some example images from the CCFERD dataset:
-![videos_video_13_image_43](https://github.com/user-attachments/assets/6409b9fb-2625-45f6-a7a6-9ac8c3320f87)
-![videos_video_11_image_149](![videos_video_28_image_148](https://github.com/user-attachments/assets/2d69d400-c5a2-437b-832d-c3e0af72060d)
-![videos_video_28_image_148](https://github.com/user-attachments/assets/9bc6e891-946c-416d-ae5d-e1d732a70d91)
+Some example images from the CCFERD dataset can be found in the datasets folder.
 
-### Due to anonymous requirement, once the paper is accepted, the actual images of the dataset and python code will be made publicly available.
-
+### Anonymity Requirements
+To comply with anonymity requirements, the actual images from the dataset, along with the Python code and contact information, will be made publicly available once the paper is accepted.
