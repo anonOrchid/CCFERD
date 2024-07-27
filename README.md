@@ -1,5 +1,4 @@
-# CCFERD
-## Complex Context Facial Emotion Recognition Dataset
+# CCFERD - Complex Context Facial Emotion Recognition Dataset
 
 ## Official implementation of our paper:
 Visual Prompting in LLMs for Enhancing Emotion Recognition
